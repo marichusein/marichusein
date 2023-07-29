@@ -1,9 +1,23 @@
-### Hi there 👋
+# Hey there! 👋 I'm Husein
 
+Welcome to my GitHub profile! I'm a student with a passion for coding and a thirst for knowledge.
 
+## 🌱 About Me:
 
-- 📫 How to reach me: husein.maric@edu.fit.ba 
--  👉🏼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marichusein/)
+- 🎓 Student at Faculty of information technologies in Mostar
+- 📚 Lifelong Learner: I love to discover new technologies and improve my skills.
+
+## 📫 How to reach me:
+
+- 📧 Email: husein.maric@edu.fit.ba
+- 👉🏼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marichusein/)
+
+## 🚀 What I'm Up To:
+
+- 🔭 Working on cool coding projects to sharpen my skills.
+- 🌱 Learning new algorithms and data structures.
+- 📚 Studying for my next coding challenge or hackathon.
+
 
 
 # Languages and Tools
@@ -23,6 +37,3 @@
 [![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&logoColor=white)](https://www.sql.org/)
 [![Access](https://img.shields.io/badge/-Access-yellow?logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access/)
 
-
-#
-![](https://komarev.com/ghpvc/?username=marichusein&label=Profile+views)
