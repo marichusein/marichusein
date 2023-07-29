@@ -12,14 +12,6 @@ Welcome to my GitHub profile! I'm a student with a passion for coding and a thir
 - 📧 Email: husein.maric@edu.fit.ba
 - 👉🏼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marichusein/)
 
-## 🚀 What I'm Up To:
-
-- 🔭 Working on cool coding projects to sharpen my skills.
-- 🌱 Learning new algorithms and data structures.
-- 📚 Studying for my next coding challenge or hackathon.
-
-
-
 # Languages and Tools
 [![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
