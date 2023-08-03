@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student with a passion for coding and a thir
 - 📧 Email: husein.maric@edu.fit.ba
 - 👉🏼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marichusein/)
 
-# Languages and Tools
+## Languages and Tools
 [![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
