@@ -28,4 +28,6 @@ Welcome to my GitHub profile! I'm a student with a passion for coding and a thir
 [![Visual Paradigm](https://img.shields.io/badge/-Visual%20Paradigm-blue)](https://www.visual-paradigm.com/)
 [![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&logoColor=white)](https://www.sql.org/)
 [![Access](https://img.shields.io/badge/-Access-yellow?logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access/)
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
+
 
