@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student with a passion for coding and a thir
 
 ## 🌱 About Me:
 
-- 🎓 Student at Faculty of information technologies in Mostar
+- 🎓 Bachelor of Information Technology 
 - 📚 Lifelong Learner: I love to discover new technologies and improve my skills.
 
 ## 📫 How to reach me:
